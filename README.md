@@ -35,3 +35,19 @@
 
 Settings for each respectable program "included as image files"... 
 
+
+##Resolution and scaling up and down
+   
+   Everything related to trade quality for performance is OFF!
+    
+   # Running 3840x2160p, native for UHD movies. no upscaling. (Lag with 1070 not strong enough for upscaling properly to      4096x2160?
+
+    Upscaling settings "Not tested properly?"
+
+    Chroma upscaling NGU very high
+    Image upscaling Ngu Anti-alias very high, rest let madvr decide
+    Image downscaling DXVA2
+    Upscaling refinement Lumasharpen + adaptive + linear light
+    Activate ringing filter 100%
+    Anti ringing filter 
+
