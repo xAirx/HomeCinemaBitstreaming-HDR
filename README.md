@@ -55,3 +55,22 @@
 ## Documentation
 
      Settings for each respectable program "included as image files"... 
+
+## Watching movies
+     
+     If a pc monitor is connected, disconnect it so only the two cables for the home cinema resides.
+     This is due to the fact that you use exclusive fullscreen forcing 24p for fluid playback, this bugs with a "second monitor"
+
+     
+### Monitor preferences.
+
+     Cable from pc to reciever is seen as a monitor..
+     Make sure that the "audio monitor" <- windows will see the hdmi cable for the sound as a monitor, 
+
+     Make sure the hdmi cable going to the TV is the one set to preffered MAIN monitor in windows monitor settings. 
+     
+### Audio preferences
+
+     Make sure the reciever is set as the DEFAULT audio speaker on both settings 
+     Set configuration to 7.1 surround with full sound space on all speakers etc.
+     Open MPC HC -> Drag video file into MPC HC, Voila!
