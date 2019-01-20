@@ -1,4 +1,8 @@
 # HomeCinemaBitstreaming-HDR
+## Download Links: 
+     http://madvr.com/
+     https://mpc-hc.org/downloads/
+     https://github.com/Nevcairiel/LAVFilters/releases
 
 ##Guides:
     
@@ -40,7 +44,7 @@ Settings for each respectable program "included as image files"...
    
    Everything related to trade quality for performance is OFF!
     
-   # Running 3840x2160p, native for UHD movies. no upscaling. (Lag with 1070 not strong enough for upscaling properly to      4096x2160?
+    Running 3840x2160p, native for UHD movies. no upscaling. (Lag with 1070 not strong enough for upscaling properly to      4096x2160?
 
     Upscaling settings "Not tested properly?"
 
