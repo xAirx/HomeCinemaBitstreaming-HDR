@@ -5,6 +5,10 @@
      https://github.com/Nevcairiel/LAVFilters/releases
 
 ## Guides: 
+
+# IMPORTANT IN INTERNAL FILTERS IN MPC HC SET THE SPLITTER; AUDIO; VIDEO settings for LAV after setting  OUTPUT!
+
+after that go to audiorenderer and enable bitstreaming!!
     
     https://forum.kodi.tv/showthread.php?tid=209596&pid=1843523#pid1843523
     https://forum.kodi.tv/showthread.php?tid=259188
